@@ -1,0 +1,4 @@
+displayName = Projectile limit patch
+author = LolXD87
+version = 0.1.1
+includeSource = true

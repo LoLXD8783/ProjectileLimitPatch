@@ -1,0 +1,14 @@
+Attempts to patch/edit Terraria's projectile limit so there can be more.
+(Changes are to the references)
+The mod has a config so you can change to limit to what you want (from 1001 to 99999) (you have to reload mods in order for the changes to take effect).
+Read this: In case terraria crashes while it's loading mods, hold shift before/during mod loading for skipping, then disable this mod or delete the config file so next time it opens projectiles are set to 2000.
+Doesn't have multiplayer compat.
+Might not have compat with other mods cause the way they're coded.
+Of course, you're going to have a lot of lag.
+It's your fault if you overload your computer with the projectile ammount.
+
+Changelog:
+0.1 - Initial release.
+0.1.1 - Update to tmodloader 0.11.6.2, recoded the patches and patched vanillaAI for projectiles and npcs.
+
+Thanks to the people in the tmodloader discord server for helping with my stupid questions.
